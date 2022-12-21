@@ -1,3 +1,3 @@
-### Hi there I'm Rejaul Karim 👋
+### Hi there I'm Rejaul Karim Rabbi 👋
 
-## React Js Developer from  Bangladesh. i love to create user interface with react.
+## Full Stack Web Developer (MERN) from  Bangladesh.
