@@ -1,13 +1,39 @@
-Hi there! I am a full-stack web developer with experience in both front-end and back-end development. I am proficient in a variety of programming languages and frameworks, including HTML, CSS, JavaScript, React, Node.js, and Express.
+![App Screenshot](https://i.ibb.co/RvD6zY7/Rejaul-karim-rabbi-6.png)
+<h2>Hi 👋, I'm Rejaul Karim Rabbi</h2>
+<h3>A passionate Full Stack Developer from Bangladesh. I love to code.</h4>
 
-I am passionate about building dynamic and interactive web applications that deliver a seamless user experience. I am always looking for ways to improve my skills and stay up to date with the latest technologies and best practices.
+- 🌱 I’m currently learning **React, Next.js, Typescript, Node.js and Firebase.**
 
-In my previous projects, I have:
+- 🤝 I’m looking to **collaborate with other passionate developers.**
 
-Built responsive and mobile-friendly websites using HTML and CSS
-Implemented interactive features using JavaScript and React
-Created REST APIs using Node.js and Express
-Designed and implemented database schemas using MongoDB
-I am a collaborative team player and am comfortable working in agile development environments. I am excited to bring my skills and expertise to your team and help create innovative web solutions.
+- 👨‍💻 2023 Goals: **Master MERN Stack. Contribute to open source projects**
 
-You can view my portfolio and see some of my past projects on my website. Thank you for considering me for your project!
+- ⚡ Fun fact **I love to make delicious food on my free time & travel new places**
+
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+## 🔗 Visit
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+## Recent Projects
+
+#### Cloud Kitchen React App
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+
+#### Laptop Hunter React App
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+
+#### Shoppy Dashboard
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+
